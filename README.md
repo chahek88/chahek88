@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chahek</h1>
 
-- 🌱 I’m currently learning **web development**
+- Computer Science student | Exploring Python, C & Data Structures  
+Passionate about building practical projects and learning new technologies  
+Always curious, always improving 🚀
 
 <p align="left">
 </p>
